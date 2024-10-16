@@ -1,0 +1,9 @@
+.content-b{
+    background: red;
+    height: 300px;
+}
+.columna-b{
+    height: 120px;
+    background: white;
+    border: 2px solid #000;
+}
